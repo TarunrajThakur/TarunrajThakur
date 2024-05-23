@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Thakur</h1>
-<h3 align="center">A A learning enthusiast who is seeking ways to learn more and more things.</h3>
+<h3 align="center">A learning enthusiast who is seeking ways to learn more and more things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrajthakur&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrajthakur" /> </p>
 

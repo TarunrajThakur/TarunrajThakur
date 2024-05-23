@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Private Project**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Django, Javascript and Flutter**
+- 💬 Ask me about **Java, Data Structures and Java GUI**
 
-- 📫 How to reach me **asarma626@gmail.com**
+- 📫 How to reach me **tarunrajthakur6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
